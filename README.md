@@ -1,6 +1,11 @@
 # Learning Resources
 Add your favourite beginner tutorials/lessons here!
 
+## Machine Learning
+
+### Overview
+[Machine Learning for Humans](https://www.dropbox.com/s/e38nil1dnl7481q/machine_learning.pdf?dl=0) _(Intermediate)_
+
 ## JavaScript
 
 ### Vanilla JS
